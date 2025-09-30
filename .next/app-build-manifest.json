@@ -1,0 +1,52 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-357a9aa7cf7b0906.js",
+      "static/chunks/117-9710a79d70118eb5.js",
+      "static/chunks/main-app-906cc356382b2091.js",
+      "static/chunks/app/_not-found/page-a8b3782ae8a0d8fd.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-357a9aa7cf7b0906.js",
+      "static/chunks/117-9710a79d70118eb5.js",
+      "static/chunks/main-app-906cc356382b2091.js",
+      "static/css/d5183d8a8b116e78.css",
+      "static/chunks/972-ed5ec83d6b8990f7.js",
+      "static/chunks/app/layout-35106503a12b0225.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-357a9aa7cf7b0906.js",
+      "static/chunks/117-9710a79d70118eb5.js",
+      "static/chunks/main-app-906cc356382b2091.js",
+      "static/chunks/127-ed13f49d4fda8846.js",
+      "static/chunks/app/contact/page-f84fe5d7d6c96cef.js"
+    ],
+    "/services/page": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-357a9aa7cf7b0906.js",
+      "static/chunks/117-9710a79d70118eb5.js",
+      "static/chunks/main-app-906cc356382b2091.js",
+      "static/chunks/app/services/page-d41c395d7ae74eca.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-357a9aa7cf7b0906.js",
+      "static/chunks/117-9710a79d70118eb5.js",
+      "static/chunks/main-app-906cc356382b2091.js",
+      "static/chunks/878-7215fc146babfa68.js",
+      "static/chunks/app/about/page-67ea5b55f9afb99d.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-357a9aa7cf7b0906.js",
+      "static/chunks/117-9710a79d70118eb5.js",
+      "static/chunks/main-app-906cc356382b2091.js",
+      "static/chunks/972-ed5ec83d6b8990f7.js",
+      "static/chunks/878-7215fc146babfa68.js",
+      "static/chunks/app/page-141c5403f1a2244a.js"
+    ]
+  }
+}
