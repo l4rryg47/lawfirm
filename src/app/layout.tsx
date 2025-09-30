@@ -5,7 +5,7 @@ import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 
 export const metadata: Metadata = {
-  title: 'LawFirm - Professional Legal Services',
+  title: 'St. Patrick Law Firm - Professional Legal Services',
   description: 'Expert legal services for businesses and individuals',
 };
 
