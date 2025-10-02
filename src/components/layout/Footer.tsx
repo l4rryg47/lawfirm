@@ -40,19 +40,19 @@ export default function Footer() {
             <address className="not-italic space-y-3">
               <div className="flex items-start">
                 <MapPinIcon className="h-5 w-5 text-primary-400 mr-3 mt-0.5 flex-shrink-0" />
-                <span className="text-gray-400">123 Legal Street, Suite 100<br />New York, NY 10001</span>
+                <span className="text-gray-400">6-90 Paul Street<br />London EC2A 4NE<br />UNITED KINGDOM</span>
+              </div>
+              <div className="flex items-start">
+                <MapPinIcon className="h-5 w-5 text-primary-400 mr-3 mt-0.5 flex-shrink-0" />
+                <span className="text-gray-400">330 Avenue of the Americas, 23rd Floor<br />New York, NY 10019, USA</span>
               </div>
               <div className="flex items-center">
                 <PhoneIcon className="h-5 w-5 text-primary-400 mr-3 flex-shrink-0" />
-                <a href="tel:+12125551234" className="text-gray-400 hover:text-white transition-colors">+1 (212) 555-1234</a>
+                <a href="tel:+447353195556" className="text-gray-400 hover:text-white transition-colors">+44 7353 195556</a>
               </div>
               <div className="flex items-center">
                 <EnvelopeIcon className="h-5 w-5 text-primary-400 mr-3 flex-shrink-0" />
-                <a href="mailto:info@lawfirm.com" className="text-gray-400 hover:text-white transition-colors">info@lawfirm.com</a>
-              </div>
-              <div className="flex items-start">
-                <ClockIcon className="h-5 w-5 text-primary-400 mr-3 mt-0.5 flex-shrink-0" />
-                <span className="text-gray-400">Mon - Fri: 9:00 AM - 6:00 PM</span>
+                <a href="mailto:stpatricklaw@stpatricklaw.com" className="text-gray-400 hover:text-white transition-colors">stpatricklaw@stpatricklaw.com</a>
               </div>
             </address>
           </div>

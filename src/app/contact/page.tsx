@@ -64,27 +64,28 @@ export default function ContactPage() {
 
   const contactInfo = [
     {
-      icon: PhoneIcon,
-      title: 'Phone',
-      description: '+1 (212) 555-1234',
-      href: 'tel:+12125551234',
-    },
-    {
-      icon: EnvelopeIcon,
-      title: 'Email',
-      description: 'info@lawfirm.com',
-      href: 'mailto:info@lawfirm.com',
-    },
-    {
       icon: MapPinIcon,
-      title: 'Address',
-      description: '123 Legal Street, Suite 100\nNew York, NY 10001',
+      title: 'UK Office',
+      description: '6-90 Paul Street – London EC2A 4NE\nUNITED KINGDOM',
       href: 'https://maps.google.com',
     },
     {
-      icon: ClockIcon,
-      title: 'Working Hours',
-      description: 'Monday - Friday: 9:00 AM - 6:00 PM\nSaturday: 9:00 AM - 1:00 PM',
+      icon: EnvelopeIcon,
+      title: 'General Inquiries',
+      description: 'stpatricklaw@stpatricklaw.com',
+      href: 'mailto:stpatricklaw@stpatricklaw.com',
+    },
+    {
+      icon: PhoneIcon,
+      title: 'Chief Attorney',
+      description: 'Key Stephen Richard\nTel: +447353195556\nWhatsApp: +447353195556\nEmail: key.stephen.richard@stpatricklaw.com',
+      href: 'tel:+447353195556',
+    },
+    {
+      icon: MapPinIcon,
+      title: 'USA Office',
+      description: '330 Avenue of the Americas, 23rd Floor\nNew York, NY 10019, USA\nEmail: usa.attorney@stpatricklaw.com',
+      href: 'https://maps.google.com',
     },
   ];
 
@@ -292,11 +293,11 @@ export default function ContactPage() {
                   </p>
                   <div className="mt-4">
                     <a
-                      href="tel:+12125559876"
+                      href="tel:+447353195556"
                       className="inline-flex items-center text-sm font-semibold text-primary-600 hover:text-primary-500"
                     >
                       <PhoneIcon className="mr-2 h-5 w-5" />
-                      +1 (212) 555-9876
+                      +44 7353 195556
                     </a>
                     <p className="mt-1 text-xs text-gray-500">Available 24/7 for emergencies</p>
                   </div>
