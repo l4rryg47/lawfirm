@@ -21,13 +21,16 @@ export default function Header() {
           <div className="flex lg:flex-1">
             <Link href="/" className="flex items-center -m-1.5 p-1.5">
               <img 
-                src="/images/logo.png" 
+                src="/images/logo2.jpg" 
                 alt="St. Patrick's Law Firm Logo" 
                 className="h-16 w-auto mr-3"
                 width={64}
                 height={64}
               />
-              <span className="text-2xl font-bold text-primary-700">St. Patrick's Law</span>
+              <div className="flex flex-col">
+                <span className="text-2xl font-bold text-primary-700">St. Patrick's Law Firm</span>
+                <span className="text-2xl font-bold text-primary-700">and Associates</span>
+              </div>
             </Link>
           </div>
           
@@ -70,13 +73,16 @@ export default function Header() {
             <div className="flex items-center justify-between">
               <Link href="/" className="flex items-center -m-1.5 p-1.5">
                 <img 
-                  src="/images/logo.png" 
+                  src="/images/logo2.jpg" 
                   alt="St. Patrick's Law Firm Logo" 
                   className="h-16 w-auto mr-3"
                   width={64}
                   height={64}
                 />
-                <span className="text-2xl font-bold text-primary-700">St. Patrick's Law</span>
+                <div className="flex flex-col">
+                  <span className="text-2xl font-bold text-primary-700">St. Patrick's Law Firm</span>
+                  <span className="text-2xl font-bold text-primary-700">and Associates</span>
+                </div>
               </Link>
               <button
                 type="button"

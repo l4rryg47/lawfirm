@@ -9,7 +9,19 @@ export default function Footer() {
       <div className="container mx-auto px-6 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">St. Patrick's Law</h3>
+            <div className="flex items-center mb-4">
+              <img 
+                src="/images/logo2.jpg" 
+                alt="St. Patrick's Law Firm Logo" 
+                className="h-12 w-auto mr-3"
+                width={48}
+                height={48}
+              />
+              <div>
+                <div className="text-lg font-semibold">St. Patrick's Law Firm</div>
+                <div className="text-lg font-semibold">and Associates</div>
+              </div>
+            </div>
             <p className="text-gray-400">
               Providing expert legal services with integrity and dedication to help our clients achieve their goals.
             </p>
